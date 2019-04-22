@@ -1,0 +1,8 @@
+[package]
+name = "rogue"
+version = "0.1.0"
+authors = ["Rainsong <eder.gabriel.felix@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tcod = "0.13"
